@@ -15,7 +15,7 @@ export default function Layou({ children }: { children: React.ReactNode }) {
       <header className="shadow-md w-full p-4">
         <div className="mx-auto">
           <div className="flex flex-row justify-between items-center">
-            <h1 className="text-4xl font-semibold">Next.js SIWE Multiplayer</h1>
+            <h1 className="text-4xl font-semibold">Next.js SIWE Template</h1>
             <ConnectButton />
           </div>
         </div>
